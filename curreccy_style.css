@@ -11,6 +11,7 @@ body {
     /* background-color: #f4e4ba; */
     background: url("currency-background-image.jpg")no-repeat center center/cover;
     backdrop-filter: blur(8px);
+    background-color: rgb(9, 9, 27);
 }
 
 .container {
@@ -91,4 +92,5 @@ form button {
 
 form button:hover {
     background-color: #743e68;
+
 }
